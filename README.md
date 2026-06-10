@@ -1,9 +1,7 @@
 # guizhou_China_mobile_IPTV
 贵州中国移动iptv
 
-https://github.com/mtmt2012/guizhou_China_mobile_IPTV/blob/main/1.m3u
+直播源：http://tv.mtmt.qzz.io/1.m3u
+EPG：http://epg.zsdc.eu.org/t.xml
 
-https://gh-proxy.com/https://github.com/mtmt2012/guizhou_China_mobile_IPTV/blob/main/1.m3u
-
-
-123
+酷9格式为超级TV
